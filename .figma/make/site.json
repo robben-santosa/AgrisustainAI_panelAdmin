@@ -1,0 +1,10 @@
+{
+  "description": "Questoria connects children with autism, parents, and special educators through an engaging educational game, AI analytics, and community support.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
